@@ -1,0 +1,2 @@
+# smxhudchangelog
+Changelogs for SMXhud
