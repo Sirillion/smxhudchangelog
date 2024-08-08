@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Sirillion/SMXnews/blob/main/changelogs/clsmxhud.png" width="1080" title="SMXhud">
+  <img src="https://imgur.com/Mt5uOjc.jpg" width="1080" title="SMXhud">
 </p>
 
 ## **v1.0.333.1**
@@ -7,8 +7,10 @@
 `Branch: Current Development - Released: UPCOMING`
 
 ### CHANGES:
+- The target health bar optional modlet has now been added as a Gears setting.
+  - zSMXhudCP_THB has now been removed as an optional download.
 
-### CHANGES:
+### FIXES:
 
 ### UPDATES:
 
@@ -23,7 +25,7 @@
 ### CHANGES:
 - SMXhud has been converted to work with v1.0.
 
-### CHANGES:
+### FIXES:
 
 ### UPDATES:
 
