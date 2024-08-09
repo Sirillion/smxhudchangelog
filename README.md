@@ -15,6 +15,10 @@
   - The Clock.
   - The Ambient Temperature.
   - The Player Temperature.
+  - The Bloodmoon Indicator.
+  - The Lootstage Indicator.
+  - The Unused Skill Point Indicator.
+  - The Locked Slots Indicator (with art).
 
 ### FIXES:
 - Adjusted the Focused Block Health Bar slightly.
