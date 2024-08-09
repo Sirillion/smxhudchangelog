@@ -19,6 +19,7 @@
   - The Lootstage Indicator.
   - The Unused Skill Point Indicator.
   - The Locked Slots Indicator (with art).
+- Added a Gears setting called GuppyMode. (Kills the entire HUD)
 
 ### FIXES:
 - Adjusted the Focused Block Health Bar slightly.
