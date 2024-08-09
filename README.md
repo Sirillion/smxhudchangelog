@@ -9,8 +9,15 @@
 ### CHANGES:
 - The target health bar optional modlet has now been added as a Gears setting.
   - zSMXhudCP_THB has now been removed as an optional download.
+- Added Gears settings to turn ON/OFF the following UI elements.
+  - The Entering POI Difficulty Popup.
+  - The Location Difficulty Popup.
+  - The Clock.
+  - The Ambient Temperature.
+  - The Player Temperature.
 
 ### FIXES:
+- Adjusted the Focused Block Health Bar slightly.
 
 ### UPDATES:
 
