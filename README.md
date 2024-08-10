@@ -2,9 +2,26 @@
   <img src="https://imgur.com/Mt5uOjc.jpg" width="1080" title="SMXhud">
 </p>
 
-## **v1.0.333.1**
+## **v1.0.333.2**
 
 `Branch: Current Development - Released: UPCOMING`
+
+### CHANGES:
+
+### FIXES:
+
+### UPDATES:
+
+### WORK IN PROGRESS:
+- Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+
+---
+
+
+## **v1.0.333.1**
+
+`Branch: Stable Release - Released: 10.08.2024`
 
 ### CHANGES:
 - The target health bar optional modlet has now been added as a Gears setting.
@@ -31,8 +48,8 @@
 
 ### UPDATES:
 
-### WORK IN PROGRESS:
-- Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+---
 
 
 ## **v1.0.333.0**
