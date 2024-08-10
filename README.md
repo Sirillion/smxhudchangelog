@@ -10,16 +10,21 @@
 - The target health bar optional modlet has now been added as a Gears setting.
   - zSMXhudCP_THB has now been removed as an optional download.
 - Added Gears settings to turn ON/OFF the following UI elements.
+  - The Compass.
+  - The On-Screen Icon System.
   - The Entering POI Difficulty Popup.
   - The Location Difficulty Popup.
-  - The Clock.
+  - The Current Time. (The Clock)
+  - The Tip Popup.
+  - The Bow Draw Bar.
+- Added Gears settings to turn ON/OFF the following SMX features.
   - The Ambient Temperature.
   - The Player Temperature.
   - The Bloodmoon Indicator.
   - The Lootstage Indicator.
   - The Unused Skill Point Indicator.
   - The Locked Slots Indicator (with art).
-- Added a Gears setting called GuppyMode. (Kills the entire HUD)
+- Added a Gears setting called 'Screenshot Mode'. (Kills the entire HUD! Can be played with if you like to torture yourself!)
 
 ### FIXES:
 - Adjusted the Focused Block Health Bar slightly.
