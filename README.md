@@ -2,7 +2,7 @@
   <img src="https://imgur.com/Mt5uOjc.jpg" width="1080" title="SMXhud">
 </p>
 
-## **v1.0.333.2**
+## **v1.2.27.2**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,21 @@
 
 ### WORK IN PROGRESS:
 - Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+
+---
+
+
+## **v1.2.27.1**
+
+`Branch: Stable Release - Released: 16.12.2024`
+
+### CHANGES:
+
+### FIXES:
+- Fixed an issue with channel selection in the chat window.
+  
+### UPDATES:
 
 
 ---
