@@ -2,7 +2,7 @@
   <img src="https://imgur.com/Mt5uOjc.jpg" width="1080" title="SMXhud">
 </p>
 
-## **v1.2.27.2**
+## **v2.2.3.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,23 @@
 
 ### WORK IN PROGRESS:
 - Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+
+---
+
+
+## **v2.2.3.0**
+
+`Branch: Stable Release - Released: 27.08.2025`
+
+### CHANGES:
+- Added a minimap.
+- Added optional toolbelt numbering.
+  
+### FIXES:
+- Added fixes for updating to v2.2.
+  
+### UPDATES:
 
 
 ---
