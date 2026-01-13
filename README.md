@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://imgur.com/Mt5uOjc.jpg" width="1080" title="SMXhud">
+  <img src="https://imgur.com/BrrBf0n.jpg" width="1080" title="SMXhud">
 </p>
 
-## **v2.2.3.1**
+## **v2.5.23.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,23 @@
 
 ### WORK IN PROGRESS:
 - Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+
+---
+
+
+## **v2.5.23.0**
+
+`Branch: Stable Release - Released: 13.01.2026`
+
+### CHANGES:
+- The minimap has gotten a facelift.
+- The quest and recipe trackers have been completely redone and separated to avoid overlap.
+- Moved the Twitch section to avoid overlap with the quest tracker.
+
+### FIXES:
+
+### UPDATES:
 
 
 ---
