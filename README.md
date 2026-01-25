@@ -2,7 +2,7 @@
   <img src="https://imgur.com/BrrBf0n.jpg" width="1080" title="SMXhud">
 </p>
 
-## **v2.5.23.1**
+## **v2.5.27.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,25 @@
 
 ### WORK IN PROGRESS:
 - Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+
+---
+
+
+## **v2.5.27.0**
+
+`Branch: Stable Release - Released: 25.01.2025`
+
+### CHANGES:
+- The Recipe Tracker has gotten a few fixes to it's icons. They are now larger and no longer semi transparent. Text size was increased too.
+- Fixed a type-o in the minimap zoom out tooltip.
+
+### FIXES:
+
+### UPDATES:
+- The Quest Tracker has gotten two settings using Gears.
+  - Minimalistic Mode: Shows the tracker but no details. Details are provided on mouseover. Use TAB and mouseover to activate.
+  - Detailed Mode: Shows the tracker and detailed information about the tracked quest. (Default Mode)
 
 
 ---
