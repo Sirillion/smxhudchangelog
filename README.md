@@ -2,7 +2,7 @@
   <img src="https://imgur.com/BrrBf0n.jpg" width="1080" title="SMXhud">
 </p>
 
-## **v2.5.27.1**
+## **v2.6.14.1**
 
 `Branch: Current Development - Released: UPCOMING`
 
@@ -14,6 +14,21 @@
 
 ### WORK IN PROGRESS:
 - Complete re-design of SMXhud is in the works. Will update with more information soon.
+
+
+---
+
+
+## **v2.6.14.0**
+
+`Branch: Current Development - Released: 20.04.2026`
+
+### CHANGES:
+- Increased the size of the header for the Quest Tracker window for better readability.
+  
+### FIXES:
+
+### UPDATES:
 
 
 ---
